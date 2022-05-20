@@ -8,10 +8,10 @@ In the file dataclean.py enter the correct password from mysql database in order
 
 ### Step 2
 After activate an env install the requirments.txt<br>
-cd python_test/python_test/
-run python dataclean.py
+cd python_test/python_test/<br>
+run python dataclean.py<br>
 ### Note the path to run dataclean.py should be ./python_test
 
 ### Step 3
-cd python_test/python_test/mysite
+cd python_test/python_test/mysite<br>
 Run django-admin manage.py runserver
