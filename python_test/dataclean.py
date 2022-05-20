@@ -74,11 +74,11 @@ for k in range(10):
 
 
 
-#mydb = mysql.connector.connect(host = "localhost",user = "root", password = "montecarlo01")
+#mydb = mysql.connector.connect(host = "localhost",user = "root", password = "*******")
 
 #mycursor.execute("CREATE DATABASE mydatabase")
 
-mydb = mysql.connector.connect(host = "localhost",user = "root", password = "montecarlo01", database = "mydatabase")
+mydb = mysql.connector.connect(host = "localhost",user = "root", password = "*******", database = "mydatabase")
 
 mycursor = mydb.cursor()
 
