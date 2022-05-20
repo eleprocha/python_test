@@ -15,3 +15,5 @@ run python dataclean.py<br>
 ### Step 3
 cd python_test/python_test/mysite<br>
 Run django-admin manage.py runserver
+
+url: http://127.0.0.1:8000/myapp/kataxoriseis/
